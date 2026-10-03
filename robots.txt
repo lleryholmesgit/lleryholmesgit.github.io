@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://lleryholmesgit.github.io/voice-hop-support/sitemap.xml
+Sitemap: https://lleryholmesgit.github.io/pawprint-atlas-support/sitemap.xml
